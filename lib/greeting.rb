@@ -6,3 +6,4 @@ end
 
 greeting("Micah")
 greeting("Brandon")
+greeting("Jedi")
