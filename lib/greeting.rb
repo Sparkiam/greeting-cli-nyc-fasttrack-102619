@@ -1,7 +1,7 @@
 # code the #greeting method here!
 
 def greeting(name)
-  puts "Hello #{}"
+  puts "Hello #{}, its nice to meet you"
 end 
 
 greeting()
